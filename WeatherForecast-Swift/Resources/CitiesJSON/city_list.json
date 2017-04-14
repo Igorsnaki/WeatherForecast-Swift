@@ -1,0 +1,11 @@
+{ "list" : [
+{"_id":625144,"name":"Minsk","country":"BY","coord":{"lon":27.566668,"lat":53.900002}},
+{"_id":629634,"name":"Brest","country":"BY","coord":{"lon":23.700001,"lat":52.099998}},
+{"_id":623549,"name":"Pinsk","country":"BY","coord":{"lon":26.0951,"lat":52.122898}},
+{"_id":620127,"name":"Vitsyebsk","country":"BY","coord":{"lon":30.2033,"lat":55.190479}},
+{"_id":627907,"name":"Homyel","country":"BY","coord":{"lon":30.975401,"lat":52.434502}},
+{"_id":625324,"name":"Mazyr","country":"BY","coord":{"lon":29.2456,"lat":52.0495}},
+{"_id":828884,"name":"Horad Kobryn","country":"BY","coord":{"lon":24.36639,"lat":52.21611}},
+{"_id":630376,"name":"Horad Barysaw","country":"BY","coord":{"lon":28.50485,"lat":54.231232}}
+   ]
+}
